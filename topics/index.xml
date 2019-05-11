@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on 季小鱼</title>
+    <link>https://krely.github.io/topics/</link>
+    <description>Recent content in Topics on 季小鱼</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>admin@krely.cn (季小鱼)</managingEditor>
+    <webMaster>admin@krely.cn (季小鱼)</webMaster>
+    
+	<atom:link href="https://krely.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
